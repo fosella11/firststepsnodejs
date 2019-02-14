@@ -1,0 +1,30 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "This project was created to do the first steps on NodeJs.",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "otroejemplo": "node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fosella11/firststepsnodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "learning"
+  ],
+  "author": "fedeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fosella11/firststepsnodejs/issues"
+  },
+  "homepage": "https://github.com/fosella11/firststepsnodejs#readme"
+}
